@@ -56,7 +56,7 @@
 # 
 # 9. Em `Behaviour`, no campo `Window grouping`, selecione a opção ` Always`. [2]
 
-# ### 1.1 Código completo para configurar/instalar
+# ### 1.1 Código completo para configurar/instalar/usar
 # 
 # Para configurar/instalar/usar o `taskbar` no `Linux Ubuntu` sem precisar digitar linha por linha, você pode seguir estas etapas:
 # 
