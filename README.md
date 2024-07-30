@@ -66,6 +66,22 @@ Para configurar/instalar/usar o `taskbar` no `Linux Ubuntu` sem precisar digitar
     ```
 
 
+## 2. Configuração e sequência de botões utilizados
+
+### 2.1 Sequência para configuração
+
+<div align="center">
+    <img src="figures/fig1.png" alt="Minha Imagem" />
+    <p>Fig. 1.</p>
+</div>
+
+### 2.2 Barra de ferramentas para configuração
+
+<div align="center">
+    <img src="figures/fig2.png" alt="Minha Imagem" />
+    <p>Fig. 2.</p>
+</div>
+
 ## Referências
 
 [1] OPENAI. ***Desktop environment that stacks programs in the task bar.*** Disponível em: <https://unix.stackexchange.com/questions/224246/desktop-environment-that-stacks-programs-in-the-task-bar> (texto adaptado). StackExchange. Acessado em: 22/12/2023 11:35.
