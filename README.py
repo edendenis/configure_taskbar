@@ -85,6 +85,13 @@
 #     <p>Fig. 2.</p>
 # </div>
 
+# ### 2.3 Action button
+# 
+# <div align="center">
+#     <img src="figures/fig3.png" alt="Minha Imagem" />
+#     <p>Fig. 3.</p>
+# </div>
+
 # ## Referências
 # 
 # [1] OPENAI. ***Desktop environment that stacks programs in the task bar.*** Disponível em: <https://unix.stackexchange.com/questions/224246/desktop-environment-that-stacks-programs-in-the-task-bar> (texto adaptado). StackExchange. Acessado em: 22/12/2023 11:35.
